@@ -1,7 +1,3 @@
-# Insurance-Cost-Prediction-Regression
-Applying Linear Regression to predict medical insurance costs and analyze influencing factors using a Kaggle dataset.
-
-
 # 🩺 Predicting Medical Insurance Costs using Linear Regression
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
